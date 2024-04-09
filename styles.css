@@ -1,0 +1,33 @@
+* {
+    background-color: #e7d47f;
+}
+
+.head1{
+    color: maroon;
+    background-color: #e7d47f;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+ul {
+    /* margin-left: 0; */
+    padding-left: 0;
+    text-align: left;
+    display: inline-block;
+}
+
+li {
+    font-weight: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: left;
+    list-style-position: inside;
+    margin-left: 1em;
+} 
+
+div {
+    width: 15%;
+    margin: 0 auto;
+    outline-color: black;
+    outline-width: 1px;
+    outline:solid;
+}
